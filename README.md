@@ -15,3 +15,6 @@
 需要在下图这里配置项目路径：
 
 ![配置项目路径](doc-imgs/change-path.png)
+
+
+### [实现原理](https://zeyio.com/alfred-tool/)
